@@ -2,7 +2,7 @@
 ---
 Urban transportation plays a pivotal role in the daily lives of millions, and public buses are a critical component of this ecosystem. Many times it may have happened so, that you might not have gotten any information about how much more time it takes for any bus to come to the stop. It feels like there is a huge gap in information between the passengers/commuters and the public bus system. In this day and age where data and information are such a crucial part of the lives of many such a gap in information does not seem right! Hence it is where "Moveasy" comes into play.
 The "Moveasy" project is conceived to transform the public bus commuting experience by providing a robust solution that offers real-time information about the location of buses near users, along with a wealth of essential data pertaining to daily public bus travel.
-People often face various problems during their daily public bus travel. These issues can vary depending on the location, the quality of public transportation services, and other factors. These factors can be - 
+People often face various problems during their daily public bus travel. These issues can vary depending on the location, the quality of public transportation services, and other factors. These factors can be - <br>
 ●	Overcrowding <br>
 ●	Delays <br>
 ●	Unreliable schedules <br>
