@@ -1,6 +1,5 @@
 # import taipy
 from taipy.gui import Gui
-import webbrowser
 from app import itemsInStore
 import pandas as pd
 

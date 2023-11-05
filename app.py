@@ -1,11 +1,7 @@
-# from flask import Flask, render_template, request,session, redirect, url_for
-import json
-
-import pyrebase
 import firebase_admin
-from firebase_admin import credentials, firestore, initialize_app
+from firebase_admin import credentials, firestore
 
-cred = credentials.Certificate("locationapp-25208-firebase-adminsdk-y0b6s-33be61cc2b.json")
+cred = credentials.Certificate("locationapp.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
@@ -22,5 +18,4 @@ def itemsInStore():
                   "VehicleID": f'{location_dict["name"]}'}
 
         res_location.append(resLoc)
-
     return res_location
