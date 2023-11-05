@@ -1,3 +1,14 @@
+
+<img src = "assets/Screenshot 2023-11-05 100628.png"
+
+
+
+
+
+
+
+
+
 # PROBLEM STATEMENT :
 ---
 Urban transportation plays a pivotal role in the daily lives of millions, and public buses are a critical component of this ecosystem. Many times it may have happened so, that you might not have gotten any information about how much more time it takes for any bus to come to the stop. It feels like there is a huge gap in information between the passengers/commuters and the public bus system. In this day and age where data and information are such a crucial part of the lives of many such a gap in information does not seem right! Hence it is where "Moveasy" comes into play.
@@ -78,6 +89,9 @@ https://drive.google.com/file/d/1rZzJp4X6SoQcA2EEklyM-TWZYgGJ31u4/view?usp=shari
 
 For Explanation and video Link
 https://drive.google.com/drive/folders/1-ykFD26QfLk0UARvkqUJtzJqgi5YbB3W?usp=sharing
+
+
+
 
 
 # TEAM DETAILS (DSYNC)
