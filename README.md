@@ -79,3 +79,11 @@ https://drive.google.com/file/d/1rZzJp4X6SoQcA2EEklyM-TWZYgGJ31u4/view?usp=shari
 For Explanation and video Link
 https://drive.google.com/drive/folders/1-ykFD26QfLk0UARvkqUJtzJqgi5YbB3W?usp=sharing
 
+
+# TEAM DETAILS (DSYNC)
+
+<br>LAKSHAY SINGHAL<br/> 
+<br>PRIYANSH GUPTA <br/>
+<br>DHRUV RASTOGI<br/>
+<br>SHREYA RAUNIYAR<br/>
+
