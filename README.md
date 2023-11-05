@@ -30,6 +30,8 @@ People often face various problems during their daily public bus travel. These i
 
 # PROPOSED SOLUTION :
  --- 
+<img src = "\assests\da5792d2-506d-4760-a510-fd90d1079850.jpg">
+ 
  We have hence tried to implement a one-stop solution for the above-stated problem with the help of "Moveasy" which is a 2 apps-based project idea - one for the POS device and the other for the consumer's app.
 Consumer App:
 The consumer-facing mobile app offers a user-friendly interface that allows daily bus commuters to effortlessly track the live location of public buses in real time. This app provides passengers with valuable information such as bus arrival times, current bus routes, and estimated arrival times at specific stops. Users can access this information conveniently on their smartphones, making their daily commutes more predictable and efficient. Not just by providing the location of the nearby buses on a neat map of the area, but also allowing them to use the app just to buy the ticket before even boarding hence making it easier on public bus staff during crowded hours.
