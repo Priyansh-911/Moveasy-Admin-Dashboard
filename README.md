@@ -62,6 +62,11 @@ pip install -r requirements.txt
 <u>Now, Run the main.py file</u>
 
 
+# LINK TO OTHER REPOSITORIES OF THE PROJECT 
+  for user        -> https://github.com/Dhruv1797/Hackcbs6.0-project-Dsync-6074-
+  for POS device  -> https://github.com/Dhruv1797/Hackcbs-Dsync
+
+
 
 # TO DOWNLOAD AND RUN THE APK's :
 
@@ -71,6 +76,6 @@ https://drive.google.com/file/d/1g0tRhodalS3lLsiR7xDlSUP3_MQ9_vNr/view?usp=shari
 For UserMain App Apk Download link
 https://drive.google.com/file/d/1rZzJp4X6SoQcA2EEklyM-TWZYgGJ31u4/view?usp=sharing
 
-For Explaination and video Link
+For Explanation and video Link
 https://drive.google.com/drive/folders/1-ykFD26QfLk0UARvkqUJtzJqgi5YbB3W?usp=sharing
 
