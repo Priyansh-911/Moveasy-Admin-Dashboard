@@ -1,5 +1,5 @@
 
-<img src = "assets/Screenshot 2023-11-05 100628.png" >
+<img src = "./assets/Screenshot 2023-11-05 100628.png" >
 
 
 
