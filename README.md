@@ -53,11 +53,11 @@ MOVEASY is an innovative solution that benefits both public transportation autho
 
 
 
-## How to run this locally
+## How to run ADMIN_DASHBOARD locally -
 
 <u>first of all run</u>
 
-pip install -r requirements.txt
+<code>pip install -r requirements.txt </code>
 
 <u>Now, Run the main.py file</u>
 
